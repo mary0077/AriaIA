@@ -29,7 +29,7 @@ def load_csv_data():
 
 retriever = load_csv_data()
 
-st.title("Oráculo - Sistema Inteligente da Empresa")
+st.title("Aria - Sistema Inteligente")
 
 rag_template = """
 Você é um atendente de uma empresa.
